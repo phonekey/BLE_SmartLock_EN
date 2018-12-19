@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "toc@0.0.1"
+    ],
+    "pluginsConfig": {}
+}
