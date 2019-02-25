@@ -1,16 +1,7 @@
-# Introduction
-
-## What is PHONEKEY App?
-
-PHONEKEY is a mobile phone application that allows you to use your mobile phone as a key to unlock door locks, garage... etc, and to share mobile keys by using a variety of ways among cloud service and proximity.
-
-## Which devices does the mobile app support?
-
-You can install PHONEKEY on any mobile devices that have iOS \(iPhone 4S+\) and Android \(Kikkat 4.4+\) operating systems.
-
-## How it works?
-
-PHONEKEY needs to access Bluetooth 4.0 on mobile phone devices to communicate with locks.
-
-If you forget the Master Code and want to reset the locks, you have to obtain a NFC\(Near Field Communication\) enable mobile phone to execute password reset function.
-
+# 簡介
+## 什麼是PHONEKEY藍牙鎖手機應用程式
+PHONEKEY是一種手機端的應用程式，讓你能夠用手機當作鑰匙開啟門鎖、車庫鎖，並運用雲端與近端等多種方式分享鑰匙  。
+## 哪些裝置支援PHONEKEY
+您可以安裝PHONEKEY在iOS(iPhone 4s+)和Android 4.3+手機作業系統上。部分鎖具需要Android 5.0以上的手機作業系統才能正常操作。
+## 如何運作
+PHONEKEY需要手機端具備藍牙4.0無線通訊規格，與鎖具進行溝通開關鎖。若要進行設定保證卡重設，則需要手機具備NFC近場通訊功能以讀取設定保證卡。

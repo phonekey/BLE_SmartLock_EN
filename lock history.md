@@ -1,0 +1,9 @@
+# 開關鎖歷史記錄
+
+具有**管理者**鑰匙的使用者，在鎖具設定選取**歷史記錄**，該鎖具的記錄會依時間排序列出。  
+歷史記錄內容因鎖具屬性而有差異，例如自動上鎖型的鎖具，只記錄「開鎖時間」；藍牙車庫主機，會記錄「上」、「停」、「下」的時間。
+
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png) 
+
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-15-13-46-145_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-15-14-38-511_com.userstar.phonekey.png)
+

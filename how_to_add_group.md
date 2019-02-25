@@ -1,19 +1,22 @@
-# How to add a group
-When there are more and more keys available in your mobile phone, you can use group folder to manage these keys.
+# 如何新增群組
 
-![](https://initail.files.wordpress.com/2015/06/batterynotification.png)
+當鑰匙越來越多的時候，可使用群組資料夾管理鑰匙。
 
-### 1. Add a group
+### 1. 新增群組
 
-Touch float action button![](https://initail.files.wordpress.com/2015/06/floatbu.png) and Pop-up toolbar below, select the add a group.
+點選全部的物件標籤頁--&gt;點擊編輯群組--&gt;點選新增。
 
-![](https://initail.files.wordpress.com/2015/06/floatbutton.png)
+![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_10_48-mp4-still009.jpg)  
+![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_10_48-mp4-still010.jpg)
 
-### 2.Input the group name
+### 2.編輯群組名稱
 
-![](https://initail.files.wordpress.com/2015/06/addgroup.png)
+![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_10_48-mp4-still011.jpg)  
 
-### 3.Group management
-Drag and drop the unsorted key to proper group.
 
-![](https://initail.files.wordpress.com/2015/06/group_unfold.png)
+### 3.群組管理
+
+將群組名稱鍵入後，便可將未分類的鑰匙拖曳到該群組資料夾內保管。  
+![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_10_48-mp4-still013.jpg)  
+![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_10_48-mp4-still014.jpg)
+

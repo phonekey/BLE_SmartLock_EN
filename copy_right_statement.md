@@ -1,18 +1,17 @@
-# Copyright Statement
+# Copyright statement
 
-Copyright © UserStar Information System Co., Ltd. All rights reservered.
+This document is owned by UserStar Information System Co., Ltd.
 
-Android is a registered trademark of Google Inc.
+PHONEKEY is the trademark of UserStar Information System Co., Ltd.
 
-iOS and iPhone are registered trademarks of Apple Inc.
+Android is the trademark of Google.
 
-All other trademarks and copyrights referred to are the property of their respective owners.
+iOS, iPhone are the trademarks of Apple.
 
-Distribution of substantively modified versions of this document is prohibited without the explicit permission of the copyright holder.
+It is forbidden to modify this document unless it is approved by the owner of this document.
 
-Distribution of this work or derivative work in any standard \(paper\) book form for commercial purposes is prohibited unless prior permission is obtained from the copyright holder.
+Print this document for other commercial use is prohibited.
 
-## UserStar Patented Technologies
-
-EP2511880 A3, US8188840 B2, EP2270739 A1, US20150026783 A1
+UserStar's Patent No.  
+EP2511880A3, US8188840B2, EP2270739A1, US20150026783A1
 

@@ -1,16 +1,16 @@
 # How to install PHONEKEY
 
-Go to App Store or Google Play and search for PHONEKEY.
+Search for the PHONEKEY app on the App Store or Google Play, based on the pre-loaded app marketplace for mobile operating systems and brand manufacturers.
 
-## Android
+## App Store
 
-Search for PHONEKEY in Google Play, and select "PHONEKEY BLE Locks" in search results to go to the app page. Follow the standard installation procedure.
+Please search PHONEKEY in the App Store, click PHONEKEY to download and install.
 
-[https://play.google.com/store/apps/details?id=com.userstar.phonekey](https://play.google.com/store/apps/details?id=com.userstar.phonekey)
+[https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1036692079&mt=8](#)
 
-## iOS
+## Google Play
 
-Search for PHONEKEY in App Store, and select "PHONEKEY BLE Locks" in search results to go to the app page. Follow the standard installation procedure.
+Please search for PHONEKEY Bluetooth Smart Lock in Google Play, click to download and install.
 
-[https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1036692079&mt=8](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1036692079&mt=8)
+[https://play.google.com/store/apps/details?id=com.userstar.phonekey](#)
 
