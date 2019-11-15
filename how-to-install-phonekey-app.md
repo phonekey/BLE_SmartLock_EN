@@ -1,4 +1,4 @@
-# 如何安裝PHONEKEY
+# How to install PHONEKEY    app
 
 根據手機作業系統與品牌廠商預先搭載的應用程式市集，請在App Store或Google Play搜尋PHONEKEY應用程式。
 

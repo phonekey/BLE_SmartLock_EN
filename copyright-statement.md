@@ -1,4 +1,4 @@
-# 著作權聲明
+# Copyright Statement
 
 本文件為優仕達資訊股份有限公司所有
 
