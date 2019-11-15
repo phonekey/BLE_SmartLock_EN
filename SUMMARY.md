@@ -2,7 +2,7 @@
 
 * [About this manual](README.md)
 * [Copyright Statement](copyright-statement.md)
-* [How to install PHONEKEY    app](how-to-install-phonekey-app.md)
+* [How to install PHONEKEY app](how-to-install-phonekey-app.md)
 * [How we    ensure the security of    your data](how-we-ensure-the-security-of-your-data.md)
 * [Workspace overview](features/README.md)
   * [Sign in your account](features/sign-in-your-account.md)

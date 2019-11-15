@@ -1,17 +1,17 @@
 # Copyright Statement
 
-本文件為優仕達資訊股份有限公司所有
+This document is owned by UserStar Information System Co., LTD.
 
-PHONEKEY為優仕達資訊股份有限公司註冊商標
+PHONEKEY is a registered trademark of UserStar Information System Co., LTD.
 
-Android為Google註冊商標
+Android is a registered trademark of Google.
 
-iOS, iPhone為Apple註冊商標
+iOS and iPhone are registered trademarks of Apple.
 
-禁止修改本文件，除非有取得本文件所有人允許
+It is forbidden to modify this document unless it is approved by the owner of this document.
 
-禁止轉印本文件以做商業使用
+Transfer of this document for commercial use is prohibited.
 
-優仕達資訊專利代號  
+Patent No. of UserStar Information System Co., LTD.  
 EP2511880 A3, US8188840 B2, EP2270739 A1, US20150026783 A1
 
