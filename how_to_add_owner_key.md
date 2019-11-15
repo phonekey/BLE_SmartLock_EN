@@ -1,48 +1,48 @@
-# How to add Offline Key
+# 如何新增離線鑰匙
 
-The activated lock can use master code to establish the Offline Key directly.
+已經完成啟用的鎖具，使用者可用裝置密碼新增離線鑰匙。
 
-### 1.Click the gray object
+### 1.配對鎖具
 
-![](https://initail.files.wordpress.com/2017/01/graystatus.jpg)
+在應用程式首頁右上方，按「+」新增裝置，手機會掃描周遭可連線且未建立鑰匙的鎖具，可按住螢幕下拉更新掃描內容。清單顯示代號的前3碼為產品種類，如GRG是車庫鎖、CAB是櫃鎖等。
 
-The Phonekey app will search for surrounding connectable locks and display in the gray object.  
-_**THU**_ means the Bluetooth cabinet lock, every object has three letters to identify.
+點選代號後，手機與鎖具進行連線，連線成功後鎖具會發出提示音\(短嗶3聲\)並進入**新增裝置**頁面。
 
-### 2. Select Offline Key
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-14-44-52-375_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-10-37-31-514_com.userstar.phonekey.png)
 
-![](https://initail.files.wordpress.com/2017/01/createakey.jpg)
+### 2. 選擇鑰匙產生方式
 
-### 3. Enter Master Code
+選擇**建立鑰匙**。
 
-If the user input the master code incorrect for 3 times, the lock will suspend for 15 minutes.  
-![](https://initail.files.wordpress.com/2017/01/entermc.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-24-129_com.userstar.phonekey.png)
 
-You can choose whether memorize the master code in current mobile phone or not, then your mobile phone will not need to input master code to enter setting page. You can change this setting in lock setting page.
+### 3. 輸入裝置密碼
 
-**If the memorized mobile phone is stolen by someone else, they will be able to change the lock setting, we recommend you to setup screen lock.**
+裝置密碼輸入錯誤三次以上，將暫停此功能15分鐘。
 
-### 4. Setup Limitation
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-10-56-50-158_com.userstar.phonekey.png)
 
-The Offline Key's duration and usage times can be Limited.
+### 4. 忘記密碼
 
-![](https://initail.files.wordpress.com/2017/01/limited.jpg)
+忘記密碼可以使用設定保證卡重設密碼。
 
-### 5. Setting key holder name
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-22-47-532_com.userstar.phonekey.png)
 
-By default, the key holder's name is your mobile phone's IMEI code. This name will be stored in your lock, it is recommended to revise the name for easy memorization. This will help you to know who was operating the lock when viewing history records.
+### 5. 設定鑰匙屬性
 
-**If user has log in account, it will fill the account ID automatically**
+鑰匙屬性預設為**一般使用者**，可調整為**管理者**。
 
-![](https://initail.files.wordpress.com/2017/01/keyholdername.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-51-007_com.userstar.phonekey.png)![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-56-408_com.userstar.phonekey.png)
 
-### 6. Setting the lock name
+### 6. 設定使用者名稱與裝置名稱
 
-The default lock name is the manufacturer category code, we recommend that you should revise the name for easy recognition.
+使用者名稱預設為手機的IMEI碼。此使用者名稱會儲存在鎖具，建議修改為您可記憶的名稱，查詢開鎖歷史記錄時，即可知道是由哪一位使用者操作。**若有登入帳號，將自動填入帳號名稱。**
 
-![](https://initail.files.wordpress.com/2017/01/lockname.jpg)
+裝置名稱預設為鎖具類別代碼，建議修改為個人方便記憶判別的名稱。
 
-### 7. Pairing lock success
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-16-03-45-666_com.userstar.phonekey.png)
 
-![](https://initail.files.wordpress.com/2017/01/thusuccess.jpg)
+### 7. 離線鑰匙建立完成，回到裝置列表
+
+
 

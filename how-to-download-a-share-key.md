@@ -1,30 +1,23 @@
-# How to download a Share Key
+# 如何下載分享鑰匙
 
-To download a Share Key, the user must login their account, and keep internet connected.
+被分享者的手機需連網，APP登入帳號或已取得驗證碼。
 
-### 1.Click the gray object
-![](https://initail.files.wordpress.com/2017/01/graystatus.jpg)
+* 線上型鑰匙會自動顯示於裝置列表，裝置名稱前有「@」符號。
+* 下載型鑰匙，請依下列說明進行操作。
 
-The Phonekey app will search for surrounding connectable locks and display in the gray object.
-***THU*** means the Bluetooth cabinet lock, every object has three letters to identify.
+### 1.配對鎖具
 
-### 2. Select Download the Key
-![](https://initail.files.wordpress.com/2017/01/createakey.jpg)
+在應用程式首頁右上方，按「+」進入**新增裝置**頁面，手機會掃描周遭可連線且未建立鑰匙的鎖具，可按住螢幕下拉更新掃描內容。列表顯示代號的前3碼為產品種類，如GRG是車庫鎖、CAB是櫃鎖等。
 
-### 3. Select the correct Key Location
-If the user choice wrong Key Location, it will not be able to download the assigned key.
+選取要配對的代號與鎖具連線，連線成功後鎖具發出提示音\(短嗶3聲\)。
 
-![](https://initail.files.wordpress.com/2017/01/selectcorrectlocation.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-14-44-52-375_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-10-37-31-514_com.userstar.phonekey.png)
 
-#### 3.1 Share Method is "To ID"
+### 2. 選擇鑰匙產生方式
 
-If the user was shared by ID, it will automatically initialize the Share Key.
-![](https://initail.files.wordpress.com/2017/01/thekeyinitialized.jpg)
+選擇**輸入驗證碼**。  
+如果該分享鑰匙已被指定帳號，且APP在登入該帳號的狀態下，鑰匙會自動建立。  
+如果該分享鑰匙使用驗證碼，則需輸入正確的驗證碼才能建立鑰匙。
 
-#### 3.1 Share Method is "Password"
-
-If the user was shared by password, the user has to type the Share Code to initialize the Share Key.
-![](https://initail.files.wordpress.com/2017/01/typethecode.jpg)
-
-
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-24-129_com.userstar.phonekey.png)
 

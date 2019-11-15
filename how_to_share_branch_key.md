@@ -1,68 +1,45 @@
-# How to share a Share Key
+# 如何設定分享鑰匙
 
-To use Phonekey cloud service management to manage the Share Key.
+手機連網時，使用PHONEKEY帳號管理分享鑰匙，不需與鎖具連線。
 
-### 1. There are two ways to enter Share Key Management
+### 1. 有兩種途徑進入鑰匙列表
 
-First of all, you have to login the account.  
-Please remember that you don't have to connect the lock when you want to do the Share Key Management.
+一、登入帳號狀態，進入各別的鎖具設定，選擇**鑰匙列表**，顯示該鎖具已設定的分享鑰匙。
 
-* Go to individual lock setting and select Share Key Management
-  
-  ![](https://initail.files.wordpress.com/2017/01/lowermenu.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-24-18-659_com.userstar.phonekey.png)
 
-* Click the side bar menu and select Share Key Management  
+二、登入帳號狀態，從首頁左上方的**選單**，選擇**分享鑰匙列表**，顯示包含其他鎖具的所有分享鑰匙。
 
-  ![](https://initail.files.wordpress.com/2017/01/sidebar1.jpg)
+### 2. 分享方式
 
-### 2. Share Key Management
+在**鑰匙列表**或**分享鑰匙列表**設定鑰匙權限時：  
+下載型鑰匙\(離線使用\)可**指定帳號**或**驗證碼**、線上型鑰匙\(連網使用\)只能**指定帳號**。
 
-Select a Not Shared location
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-42-22-789_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-42-27-594_com.userstar.phonekey.png)
 
-![](https://initail.files.wordpress.com/2017/01/notshared.jpg)
+輸入**帳號**，或者點選通訊錄圖示來選取帳號。
 
-### 3. Select a method to share
+> 可先在APP首頁的**選單**&gt;**通訊錄**，新增被分享者的電子郵件與名稱，分享鑰匙時即能從通訊錄直接選取。
 
-There are two methods to share the key
+或者使用**驗證碼**設定，並將驗證碼提供給被分享者。
 
-#### To ID
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-13-34-44-309_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-48-55-283_com.userstar.phonekey-1.png)
 
-If the guest has a exist PhoneKey account, you can share the key to guest's ID account.
+### 3.設定分享鑰匙權限
 
-![](https://initail.files.wordpress.com/2017/01/toid.jpg)
+1. 起始日期、結束日期，與可用開鎖次數為「且\(AND\)」的邏輯，亦即分享時間內如開鎖次數用完則會失效。
+2. 驗證碼為伺服器自動產生，無法由使用者變更。
 
-#### To Password
-If the guest do not have a PhoneKey account, you can send the Share Code to the guest
+### 4.修改分享設定\(對方尚未下載鑰匙\)
 
-![](https://initail.files.wordpress.com/2017/01/topassword.jpg)
+若**下載型鑰匙**尚未被使用，在鑰匙列表，鑰匙狀態為**未下載**，可修改其設定或取消分享。
 
-### 4.Notifications
+### 5. 修改分享設定\(對方已經下載鑰匙\)
 
-1. The guest has to connect the lock and internet to download the key
-2. Once the key has been downloaded, the guest will not need the internet anymore.
-3. The owner can see if the guest's key is downloaded or not.
-4. If the guest has download the key, and owner want to delete the guest's key, the owner has to deactivate the location with the lock.
-5. The owner can reset the Share Key and share the key to another one, this will cause the previous key being overwrited.
-6. If the key still not be download, the owner can revoke the Share Key.
+若**下載型鑰匙**已被使用，在鑰匙列表，鑰匙狀態為**分享中**，點選此鑰匙進入設定，只能進行重設。
 
-### 5. Add/Delete a contact
-You can establish a contact list to quick access 
+> 重新設定後，新的使用者下載鑰匙，將取代舊的使用者。  
+> 如果想要立即刪除舊的使用者，請與鎖具連線關閉鑰匙。
 
-![](https://initail.files.wordpress.com/2017/01/addid.jpg)
-![](https://initail.files.wordpress.com/2017/01/addcontact.jpg)
-If you want to delete a contact, you can long press the target contact's ID, and it will pop up a delete window.
-
-###  6. Share the key
-#### To ID
-![](https://initail.files.wordpress.com/2017/01/key1share.jpg)
-
-#### To Password
-![](https://initail.files.wordpress.com/2017/01/key2share.jpg)
-
-### 7. Key Sharing Status
-
-1. If the key change into Sharing, the key still can be revoked.
-2. If the key change into Shared, the key can only be reset. The reset does not mean you can delete the previoud shared key in the guest mobile phone, the reset means you can share to others and then you can let others to overwrite the key.
-
-![](https://initail.files.wordpress.com/2017/01/sharing.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-51-23-151_com.userstar.phonekey-1.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-26-14-083_com.userstar.phonekey.png)
 

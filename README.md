@@ -1,16 +1,16 @@
-# Introduction
+# About this manual
 
-## What PHONEKEY Bluetooth Smart Lock App can do
+## What is the PHONEKEY BLE Smart Lock mobile app
 
-Your phone is the key to unlock door locks, garage locks, lockers, etc. And you can share keys on the internet.
+Use your mobile phone and the PHONEKEY app as a key to unlock your door locks, garage locks, lockers, etc. Besides, you can share the keys by the cloud platform.
 
-## Which devices support PHONEKEY
+## Which mobile devices support PHONEKEY
 
-You can install PHONEKEY on iOS \(iPhone 4s+\) and Android 5.0+ smartphone systems.
+You can install PHONEKEY on smartphones with iOS \(iPhone 4s+\) or Android 5.0+.
 
 ## How it works
 
-PHONEKEY requires the mobile phone with Bluetooth 4.0 or higher version in order to communicate with the device \(lock\). 
+PHONEKEY requires the mobile phone with Bluetooth 4.0 or higher to communicate with the lock. 
 
-When resetting the device password with the guanarantee card, PHONEKEY need to use mobile phone with **NFC** \(Near Field Communication\) to read the guarantee card.
+To reset the device password using the warranty card requires the mobile phone with NFC near field communication to read the RFID guarantee card.
 

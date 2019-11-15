@@ -1,9 +1,8 @@
-# How to delete keys in a lock
-Delete key on your phone does not delete the keys inside locks, so you need to use the key management to clear the unnecessary keys.
+# 刪除鎖具內的鑰匙
 
-### 1. Select the lock and go to its setting page, and select **Key Management**
+具有**管理者**鑰匙的使用者，在鎖具設定選取**管理裝置內的鑰匙**，該裝置內的鑰匙會依序列出。
 
-![](https://initail.files.wordpress.com/2015/06/masterkeysettings.png)
+選取鑰匙向左滑動，點選**刪除**圖示以刪除鎖具內的鑰匙。
 
-### 2. Select the key you want to edit
-![](https://initail.files.wordpress.com/2015/06/lockendkeymanagement.png)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-15-54-04-911_com.userstar.phonekey.png)
+

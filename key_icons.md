@@ -1,38 +1,37 @@
-PHONEKEY provide two types of mobile key, one is established directly between phone and lock; the other is sent by user via cloud service center.
+# 鑰匙屬性
+
+PHONEKEY的鑰匙分為兩大類：
+
+1. 手機連接鎖具建立的鑰匙，**離線**使用；
+2. 使用雲端功能分享的鑰匙，有**下載型**與**線上型**兩種。
 
 ---
 
-![](https://initail.files.wordpress.com/2017/01/createakey.jpg)
-# Offline Key
-1. Use Master Code to establish the key.
-2. It is point to point process, which does not require any Internet connection.
-3. The device must be a mobile phone.
+# 建立\(離線\)鑰匙
 
-### Remember your Master Code
-The Master Code has full authority to your locks, including every settings. If you want the mobile phone to remember your Master Code, you can choose whether this mobile phone memorize the master password to the phone. 
-If you choose remember the Master Code on your mobile phone, you have to avoid the mobile phone being stolen. Or you can set up a screen lock to prevent it.
-
-### Limitation
-The Offline Key's duration and usage times can be Limited.
-
-![](https://initail.files.wordpress.com/2017/01/limited.jpg)
+* 使用主控密碼在手機上與鎖具直接建立鑰匙，鑰匙屬性預設為**一般使用者**，可更改為**管理者**。
+* 建立一般使用者權限時，可以設定鑰匙的使用次數與使用期限。
+* 不需要網路連線即可開關鎖。
 
 ---
 
+# 管理分享鑰匙
 
-# Download the Key
-1. Internet connection required
-2. It can set up duration and usage times limitation.
-3. The users can dwonload the key via password, or just login their account to download the key.
-4. The users must select correct Share Key Location to download the key.
+### 開通鑰匙
 
-### Create Share Keys
-Everyone can use the Master Code, and then log in their account, to activate Share Key Locations under their account.
+擁有**管理者**鑰匙限權的使用者，能在APP登入PHONEKEY帳號、手機連網且與鎖具連線的狀態下，開通「下載型鑰匙 \(最多十把\)」或「線上型鑰匙」。
 
-1. The Share Key can use totally offline.
-2. If other account has activate Share Key Locations, the one who has the Master Code can deactivate the Location and re-activate it, therefore, the Location will belong to the last one who activate it.
-3. If some one deactivate the Share Key Location, the user who is using the location will not be available to use the Share Key.
-Notifications:
-1. First time to use the Share Key Location, the user has to connect to the lock and internet.
-2. The Share Keys can be shared by either account or password.
-3. The key can set limitation either duration or times.
+* 若管理者A已經開通某一把分享鑰匙，管理者B可先關閉該鑰匙再重新開通，該鑰匙的分享權利將歸給管理者B。
+* 若管理者關閉了某一把分享鑰匙，此動作將清除該鑰匙，使該鑰匙無法使用。
+
+### 分享鑰匙
+
+擁有**管理者**鑰匙限權的使用者，能在APP登入PHONEKEY帳號、手機連網的狀態下，進行分享鑰匙。
+
+* 可設定使用次數或使用期限。
+* 可分享給有PHONEKEY帳號的使用者，或是另外提供\(下載型鑰匙\)驗證碼給其他使用者。
+* 被分享者在手機連網且與鎖具連線的狀態下，新增鑰匙與取得「下載型鑰匙」，**離線**使用。
+* 被分享者在手機連網且與鎖具連線的狀態下，新增鑰匙與取得「線上型鑰匙」，**連網**使用。
+
+
+

@@ -1,31 +1,18 @@
-# The purpose of sign up an account
+# 帳號的用途
 
-PHONEKEY can do the most of operations offline, you can just establish an offline key for each member of your family, these keys allow your family to use independently and no need to connect to internet. However, PHONEKEY provides some convenient cloud service, for example:
+PHONEKEY提供完全離線的開關鎖操作，您可使用**裝置密碼**在每位使用者的手機建立數位鑰匙\(一般使用者/管理者\)，這些鑰匙允許每位使用者離線使用。註冊並登入帳號可以提供您便利的雲端功能，例如：
 
-1. Create Share Key
+> 擁有管理者鑰匙的人，可以在APP登入**PHONEKEY帳號**、手機連網且與鎖具連線的狀態下，進行管理分享鑰匙。
 
-> Everyone can use the Master Code, and then log in their account, to activate Share Key Locations under their account.  
-> 1. The Share Key can use totally offline.  
-> 2. If other account has activate Share Key Locations, the one who has the Master Code can deactivate the Location and re-activate it, therefore, the Location will belong to the last one who activate it.   
-> 3. If some one deactivate the Share Key Location, the user who is using the location will not be available to use the Share Key.
->
-> Notifications:  
-> 1. First time to use the Share Key Location, the user has to connect to the lock and internet.
-> 2. The Share Keys can be shared by either account or password.
-> 3. The key can set limitation either duration or times.
+# 登入您的帳號
 
+## 已有帳號
 
-# Log in to your account
+在首頁點選左上角的選單 -&gt;點選登入 -&gt;輸入帳號密碼
 
-## An existing account
+## 創建帳號
 
-Select the sidebar menu -&gt; Select Login -&gt; Input ID and password
+在首頁點選左上角的選單 -&gt;點選登入 -&gt;點選註冊，按照步驟輸入資料後，再到註冊信箱點選啟用連結。
 
-![](https://initail.files.wordpress.com/2017/01/login.jpg)
-
-## Create an account
-
-Select the sidebar menu -&gt; Select Account Login -&gt; Sign up, and follow the standard procedure to finish the  account activation.
-
-![](https://initail.files.wordpress.com/2017/01/signup.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-13-18-00-462_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-13-17-49-005_com.userstar.phonekey.png)
 
