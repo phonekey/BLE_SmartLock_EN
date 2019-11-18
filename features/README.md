@@ -12,7 +12,7 @@
 
 當手機附近有已配對的裝置，該裝置左側會出現藍色燈號，表示可與鎖具進行連線。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-14-44-52-375_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-04-22-395_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2019-11-15-16-50-36-686_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-51-00-939_com.userstar.phonekey.png)
 
 ## 選單
 
@@ -20,5 +20,5 @@
 
 登入成功有以下功能選項：個人資料、分享鑰匙列表、通知、通訊錄、關於、登出。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-15-23-37-730_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-14-46-45-205_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2019-11-15-16-51-55-183_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-52-42-334_com.userstar.phonekey.png)
 

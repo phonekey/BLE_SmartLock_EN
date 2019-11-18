@@ -11,7 +11,7 @@
 
 選取要配對的代號與鎖具連線，連線成功後鎖具發出提示音\(短嗶3聲\)。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-14-44-52-375_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-10-37-31-514_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2019-11-15-16-50-36-686_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-54-44-098_com.userstar.phonekey.png)
 
 ## 2. 選擇鑰匙產生方式
 
@@ -19,5 +19,5 @@
 如果該分享鑰匙已被指定帳號，且APP在登入該帳號的狀態下，鑰匙會自動建立。  
 如果該分享鑰匙使用驗證碼，則需輸入正確的驗證碼才能建立鑰匙。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-24-129_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2019-11-15-17-30-05-770_com.userstar.phonekey.png)
 

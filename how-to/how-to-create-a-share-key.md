@@ -10,7 +10,7 @@
 
 從裝置列表尋找要設定的鎖具，向左滑動並進入裝置設定\(齒輪圖示\)。
 
- 
+![](../.gitbook/assets/screenshot_2019-11-15-16-51-00-939_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png)
 
 ## 2. 開通分享鑰匙
 
@@ -20,5 +20,5 @@
 * 點選鑰匙可修改該鑰匙名稱。
 * 未開通的下載型鑰匙不會顯示在分享鑰匙列表。
 
- 
+![](../.gitbook/assets/screenshot_2019-11-18-09-17-04-587_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-18-09-17-20-375_com.userstar.phonekey.png)
 

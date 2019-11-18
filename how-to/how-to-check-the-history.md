@@ -5,5 +5,5 @@
 
 * 線上型鑰匙歷史記錄，僅能由原開通鑰匙的帳號讀取。
 
- 
+![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-18-11-41-08-528_com.userstar.phonekey.png)
 

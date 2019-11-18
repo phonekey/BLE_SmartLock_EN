@@ -8,31 +8,39 @@
 
 選取要配對的代號與鎖具連線，連線成功後鎖具發出提示音\(短嗶3聲\)。
 
- 
+![](../.gitbook/assets/screenshot_2019-11-15-16-50-36-686_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-54-44-098_com.userstar.phonekey.png)
 
 ## 2. 選擇鑰匙產生方式
 
 選擇**建立鑰匙**。
 
+![](../.gitbook/assets/screenshot_2019-11-15-17-30-05-770_com.userstar.phonekey.png)
+
 ## 3. 輸入裝置密碼
 
 **裝置密碼**輸入錯誤三次以上，將暫停此功能15分鐘。
+
+![](../.gitbook/assets/screenshot_2019-11-15-17-30-14-764_com.userstar.phonekey.png)
 
 ## 4. 忘記密碼
 
 忘記密碼可以使用設定保證卡重設密碼。
 
+![](../.gitbook/assets/screenshot_2019-11-15-17-21-08-279_com.userstar.phonekey.png)
+
 ## 5. 設定鑰匙屬性
 
 鑰匙屬性預設為**一般使用者**，可調整為**管理者**。
 
- 
+![](../.gitbook/assets/screenshot_2019-11-15-17-30-31-863_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-17-30-41-096_com.userstar.phonekey.png)
 
 ## 6. 設定使用者名稱與裝置名稱
 
 使用者名稱預設為手機的IMEI碼。此使用者名稱會儲存在鎖具，建議修改為您可記憶的名稱，查詢開鎖歷史記錄時，即可知道是由哪一位使用者操作。**若有登入帳號，將自動填入帳號名稱。**
 
 裝置名稱預設為鎖具類別代碼，建議修改為簡單易記的名稱。
+
+![](../.gitbook/assets/screenshot_2019-11-15-17-30-53-146_com.userstar.phonekey.png)
 
 ## 7. 離線鑰匙建立完成，回到裝置列表
 

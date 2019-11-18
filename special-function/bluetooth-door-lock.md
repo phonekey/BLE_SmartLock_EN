@@ -4,6 +4,8 @@
 
 此操作需具有管理者鑰匙權限。
 
+![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png)
+
 ## 密碼
 
 密碼長度應為6碼且為數字，最多可設定10組密碼。
@@ -16,5 +18,5 @@
 
 可從此頁面新增卡片、管理卡片或刪除所有卡片。
 
- 
+![](../.gitbook/assets/screenshot_2019-11-18-11-49-07-053_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-18-11-49-10-998_com.userstar.phonekey.png)
 

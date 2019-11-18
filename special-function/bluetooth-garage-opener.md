@@ -6,5 +6,5 @@
 
 此操作需具有管理者鑰匙權限。
 
- 
+![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-18-11-46-19-524_com.userstar.phonekey.png)
 
