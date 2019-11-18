@@ -1,2 +1,7 @@
 # The    function    of RFID guarantee card
 
+與鎖具搭配的設定保證卡，具備以下功能：
+
+1. 啟用鎖具。
+2. 可使用NFC手機\(Android系統\)重設**裝置密碼**。
+
