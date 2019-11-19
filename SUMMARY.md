@@ -7,7 +7,7 @@
 * [Workspace overview](features/README.md)
   * [Sign in your account](features/sign-in-your-account.md)
   * [Key types](features/key-types.md)
-  * [The    function    of RFID guarantee card](features/the-function-of-rfid-guarantee-card.md)
+  * [The function of RFID guarantee card](features/the-function-of-rfid-guarantee-card.md)
 * [How to](how-to/README.md)
   * [How to activate the device](how-to/how-to-activate-the-device.md)
   * [How to add an Offline Key](how-to/how-to-add-an-offline-key.md)

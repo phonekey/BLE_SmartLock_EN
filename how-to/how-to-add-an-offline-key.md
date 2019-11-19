@@ -24,7 +24,7 @@
 
 ## 4. 忘記密碼
 
-忘記密碼可以使用設定保證卡重設密碼。
+忘記密碼可以使用保證卡重設密碼。
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-21-08-279_com.userstar.phonekey.png)
 

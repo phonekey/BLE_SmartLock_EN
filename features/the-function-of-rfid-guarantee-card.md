@@ -1,7 +1,7 @@
-# The    function    of RFID guarantee card
+# The function of RFID guarantee card
 
-與鎖具搭配的設定保證卡，具備以下功能：
+The RFID guarantee card paired with the lock has the following functions:
 
-1. 啟用鎖具。
-2. 可使用NFC手機\(Android系統\)重設**裝置密碼**。
+1. Activate the lock.
+2. **Device password** can be reset using an NFC phone \(Android system\).
 
