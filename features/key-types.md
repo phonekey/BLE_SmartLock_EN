@@ -1,34 +1,34 @@
-# Key    types
+# Key types
 
-## 鑰匙屬性
+## Key types
 
-PHONEKEY的鑰匙分為兩大類：
+PHONEKEY has two types of keys:
 
-1. 手機連接鎖具建立的鑰匙，**離線**使用；
-2. 使用雲端功能分享的鑰匙，有**下載型**與**線上型**兩種。
+1. The key is established by connection with the user’s mobile phone and lock, for use offline.
+2. The key is enabled by connection with the administrator’s mobile phone and lock, then being set and shared through the cloud. There are offline key and online key.
 
-## 建立\(離線\)鑰匙
+## Create \(offline\) key
 
-* 使用**裝置密碼**與鎖具配對建立鑰匙，鑰匙屬性預設為**一般使用者**，可更改為**管理者**。
-* 建立一般使用者權限時，可以設定鑰匙的使用次數與使用期限。
-* 不需要網路連線即可開關鎖。
+* Use the **device password** to pair with the lock to create a key. The key attribute is preset to **Normal user** and can be changed to **Administrator**.
+* When establishing Normal user key, you can set how many times the key can be used and the period for use.
+* No need of internet connection for unlock.
 
-## 管理分享鑰匙
+## Manage share key
 
-### 開通鑰匙
+### Enable share key
 
-擁有**管理者**鑰匙限權的使用者，能在APP登入PHONEKEY帳號、手機連網且與鎖具連線的狀態下，開通「下載型鑰匙」或「線上型鑰匙」。
+**Administrator** can enable the "offline key" or "online key" when the APP is signed into the PHONEKEY account and in connection with the internet and lock.
 
-* 若管理者A已經開通某一把下載型鑰匙，管理者B可先關閉該鑰匙再重新開通，該鑰匙的分享權利將歸給管理者B。
-* 若管理者關閉了某一把下載型鑰匙，該鑰匙將被清除而無法使用。
-* 若管理者將線上型鑰匙狀態由啟用改為關閉，所有已設定的線上型鑰匙將被清除。
+* If the manager A has enabled a certain offline key, the manager B may disable the key and then re-enable the key, and the share right of key will be assigned to the manager B.
+* If the administrator closes a certain offline key, the key will be cleared and cannot be used anymore.
+* If the administrator changes the online key status from ACTIVATE to Close, all online keys will be cleared and cannot be used anymore.
 
-### 分享鑰匙
+### Share key
 
-擁有**管理者**鑰匙限權的使用者，能在APP登入PHONEKEY帳號、手機連網的狀態下，進行分享鑰匙。
+**Administrator** can share key when the APP is signed into the PHONEKEY account and in connection with the internet.
 
-* 可設定使用次數或使用期限。
-* 可分享給有PHONEKEY帳號的使用者，或是另外提供「下載型鑰匙」驗證碼給其他使用者。
-* 被分享者在手機連網且與鎖具連線的過程，新增裝置以取得「下載型鑰匙」，**離線**使用。
-* 被分享者在手機連網的狀態下，在裝置列表自動顯示「@線上型鑰匙」，**連網**使用。
+* Can set how many times the key can be used and the period for use.
+* Can share with user who has PHONEKEY account, or provide an “offline key” verification code to user who does not have an account.
+* The user being shared need to click “Add device”to get “**offline key**” during the connection with internet and lock.
+* “**@online key**” will display in the Device list automatically when the user being shared has signed in and in connection with internet.
 
