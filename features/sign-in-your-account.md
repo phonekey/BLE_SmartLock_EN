@@ -1,22 +1,24 @@
 # Sign in your account
 
-## 帳號的用途
+## Account functions
 
-PHONEKEY提供離線操作，您可使用**裝置密碼**在每位使用者的手機建立數位鑰匙\(一般使用者/管理者\)，這些鑰匙允許每位使用者離線使用。
+PHONEKEY provides offline operation. You can use the device password to create a digital key \(normal user/administrator\) on each user's mobile phone. These keys allow each user to use offline.
 
-註冊並登入帳號提供您便利的雲端功能，例如：
+Sign up and sign in to your account, you will have convenient cloud features such as:
 
-> 擁有管理者鑰匙的人，可以在APP登入**PHONEKEY帳號**、手機連網且與鎖具連線的狀態下，進行管理分享鑰匙。
+> In the state where the APP is signed in, the mobile phone is in connection with network and device:   
+> Administrator can set share keys.   
+> Normal user can download the share key.
 
-## 登入您的帳號
+## Sign in your account
 
-### 已有帳號
+### Have an account
 
-在首頁點選左上角的選單 -&gt;點選登入 -&gt;輸入帳號密碼
+On the main page, click the Menu in the top left corner -&gt; click SIGN IN -&gt; Enter Email and password.
 
-### 創建帳號
+### Create an account
 
-在首頁點選左上角的選單 -&gt;點選登入 -&gt;點選註冊，按照步驟輸入資料後，再到註冊信箱點選啟用連結。
+On the main page, click the Menu in the top left corner -&gt; click SIGN IN -&gt; click Sign up, input Email, Name and Password for registration, then go to the registration mailbox to click Enable Link in the notification mail.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-16-53-15-836_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-53-24-241_com.userstar.phonekey.png)
 
