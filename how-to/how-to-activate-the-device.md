@@ -4,7 +4,7 @@ PHONEKEY lock device needs to be paired with the RFID guarantee card and set dev
 
 ## 1.Pairing lock
 
-At the top right of the app's main page, press "+" to Add device, then mobile phone will scan for locks that are connectable and have no pairing. The first 3 codes of the item on the list are device categories. Such as GRG is a garage lock, CAB is a cabinet lock, and so on.
+At the top right of the app's main page, press "**+**" to **Add device**, then mobile phone will scan for locks that are connectable and have no pairing. The first 3 codes of the item on the list are device categories. Such as GRG is a garage lock, CAB is a cabinet lock, and so on.
 
 Select the item to pair with the lock. After the connection is successful, the lock will sound a beep 3 times.
 

@@ -1,23 +1,23 @@
 # How to download a Share Key
 
-被分享者的手機需連網，APP登入帳號或已取得驗證碼。
+The recipient's mobile phone needs to connect to the Internet, and signs in the APP or has obtained the verification Code.
 
-* 線上型鑰匙會自動顯示於裝置列表，裝置名稱前有「@」符號。
-* 下載型鑰匙，請依下列說明進行操作。
+* The online key will show on the Device list automatically with the “@” symbol in front of the device name.
+* For offline key, please follow the instructions below.
 
-## 1.配對鎖具
+## 1.Pairing lock
 
-在應用程式首頁右上方，按「+」進入**新增裝置**頁面，手機會掃描周遭可連線且未建立鑰匙的鎖具，可按住螢幕下拉更新掃描內容。列表顯示代號的前3碼為產品種類，如GRG是車庫鎖、CAB是櫃鎖等。
+At the top right of the app's main page, press "**+**" to **Add device**, then mobile phone will scan for locks that are connectable and have no pairing. The first 3 codes of the item on the list are device categories. Such as GRG is a garage lock, CAB is a cabinet lock, and so on.
 
-選取要配對的代號與鎖具連線，連線成功後鎖具發出提示音\(短嗶3聲\)。
+Select the item to pair with the lock. After the connection is successful, the lock will sound a beep 3 times.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-16-50-36-686_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-54-44-098_com.userstar.phonekey.png)
 
-## 2. 選擇鑰匙產生方式
+## 2. Options for the key generation
 
-選擇**輸入驗證碼**。  
-如果該分享鑰匙已被指定帳號，且APP在登入該帳號的狀態下，鑰匙會自動建立。  
-如果該分享鑰匙使用驗證碼，則需輸入正確的驗證碼才能建立鑰匙。
+Choose **ENTER CODE**.  
+If the share key had been assigned an ID and the APP is signed in to the same ID, the key will be automatically established.  
+If the share key had been assigned a verification Code, you will need to enter the correct verification Code to establish the key.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-30-05-770_com.userstar.phonekey.png)
 
