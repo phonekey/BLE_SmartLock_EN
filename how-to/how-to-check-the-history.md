@@ -1,9 +1,8 @@
 # How to check the history
 
-具有**管理者**鑰匙的使用者，在鎖具設定選取**歷史記錄**，該鎖具的記錄會依時間排序列出。  
-歷史記錄內容因鎖具屬性而有差異，例如自動上鎖型的鎖具，只記錄「開鎖時間」；藍牙車庫主機，會記錄「上」、「停」、「下」的時間。
+The user with the **administrator** key can select **History record** in the Setting of lock. The History record of the lock is sorted by time and the history content varies depending on the lock properties, such as the auto-locking lock, which only records the "unlock time"; the Bluetooth garage opener records the time of "up", "stop", and "down".
 
-* 線上型鑰匙歷史記錄，僅能由原開通鑰匙的帳號讀取。
+* Online key history can only be read by the ID that enable the online key.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-18-11-41-08-528_com.userstar.phonekey.png)
 
