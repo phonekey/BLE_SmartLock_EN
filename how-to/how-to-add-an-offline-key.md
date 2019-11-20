@@ -1,46 +1,46 @@
 # How to add an Offline Key
 
-已經完成啟用的鎖具，使用者可用**裝置密碼**新增離線鑰匙，最多可設定100組離線鑰匙。
+For lock has been activated, user can add offline keys with the **Device Password** and up to 100 offline keys can be set.
 
-## 1.配對鎖具
+## 1. Pairing lock
 
-在應用程式首頁右上方，按「+」進入**新增裝置**頁面，手機會掃描周遭可連線且未建立鑰匙的鎖具，可按住螢幕下拉更新掃描內容。列表顯示代號的前3碼為產品種類，如GRG是車庫鎖、CAB是櫃鎖等。
+At the top right of the app's main page, press "+" to Add device, then mobile phone will scan for locks that are connectable and have no pairing. The first 3 codes of the item on the list are device categories. Such as GRG is a garage lock, CAB is a cabinet lock, and so on.
 
-選取要配對的代號與鎖具連線，連線成功後鎖具發出提示音\(短嗶3聲\)。
+Select the item to pair with the lock. After the connection is successful, the lock will sound a beep 3 times.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-16-50-36-686_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-54-44-098_com.userstar.phonekey.png)
 
-## 2. 選擇鑰匙產生方式
+## 2. Options for the key generation
 
-選擇**建立鑰匙**。
+Choose **ESTABLISH KEY**.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-30-05-770_com.userstar.phonekey.png)
 
-## 3. 輸入裝置密碼
+## 3. Input device password
 
-**裝置密碼**輸入錯誤三次以上，將暫停此功能15分鐘。
+If the **Device Password** was entered incorrectly more than three times, this function will be suspended for 15 minutes.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-30-14-764_com.userstar.phonekey.png)
 
-## 4. 忘記密碼
+## 4. Forget password
 
-忘記密碼可以使用保證卡重設密碼。
+Forgotten passwords can be reset using the RFID guarantee card.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-21-08-279_com.userstar.phonekey.png)
 
-## 5. 設定鑰匙屬性
+## 5. Choose key type
 
-鑰匙屬性預設為**一般使用者**，可調整為**管理者**。
+The key type is preset to the **Normal user** and can be adjusted to **Administrator**.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-30-31-863_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-17-30-41-096_com.userstar.phonekey.png)
 
-## 6. 設定使用者名稱與裝置名稱
+## 6. Set user name and device name
 
-使用者名稱預設為手機的IMEI碼。此使用者名稱會儲存在鎖具，建議修改為您可記憶的名稱，查詢開鎖歷史記錄時，即可知道是由哪一位使用者操作。**若有登入帳號，將自動填入帳號名稱。**
+The user name is preset to the IMEI code of the mobile phone and will be stored in the lock. It is recommended to change the user name for you to remember easily. So when you query the unlock history, you can recognize the user. **If the user had signed in this app, the user name will be filled in by the account name.**
 
-裝置名稱預設為鎖具類別代碼，建議修改為簡單易記的名稱。
+The device name is preset to the device category code, and it is recommended to change it to a simple one for easy to remember.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-30-53-146_com.userstar.phonekey.png)
 
-## 7. 離線鑰匙建立完成，回到裝置列表
+## 7. Complete offline key establishment, return to the Device list
 
