@@ -1,24 +1,24 @@
 # How to create a Share Key
 
-鎖具完成啟用與建立離線鑰匙後，擁有管理者鑰匙限權的使用者，在APP登入PHONEKEY帳號、手機連網且與鎖具連線的狀態下，可開通「下載型鑰匙 \(最多可設定10組\)」或「線上型鑰匙」。
+After the lock was activated and the offline key was established, the **administrator** can enable “offline key” \(up to 10 keys\) or "online key" when signing in the APP and in connected with the internet and the lock.
 
-* 若管理者A已經開通某一把下載型鑰匙，管理者B可先關閉該鑰匙再重新開通，該鑰匙的分享權利將歸給管理者B。
-* 若管理者關閉了某一把下載型鑰匙，該鑰匙將被清除而無法使用。
-* 若管理者將線上型鑰匙的狀態由啟用改為關閉，所有已設定的線上型鑰匙將被清除。
+* If the manager A has enabled a certain offline key, the manager B may disable the key and then re-enable the key, and the share right of key will be assigned to the manager B.
+* If the administrator closes a certain offline key, the key will be cleared and cannot be used anymore.
+* If the administrator changes the online key status from ACTIVATE to Close, all online keys will be cleared and cannot be used anymore.
 
-## 1. 進入裝置設定
+## 1. Enter Setting of the lock
 
-從裝置列表尋找要設定的鎖具，向左滑動並進入裝置設定\(齒輪圖示\)。
+Look for the lock item from the Device list, swipe left and enter Setting of the lock \(gear icon\).
 
 ![](../.gitbook/assets/screenshot_2019-11-15-16-51-00-939_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png)
 
-## 2. 開通分享鑰匙
+## 2. Enable share key
 
-選擇開通**下載型鑰匙**\(離線使用\)或**線上型鑰匙**\(連網使用\)。
+Choose to enable the offline key or online key.
 
-* 每把下載型鑰匙僅能給一個帳號使用。
-* 點選鑰匙可修改該鑰匙名稱。
-* 未開通的下載型鑰匙不會顯示在分享鑰匙列表。
+* Each offline key can only be used by one user.
+* Click the offline key to modify the device key name.
+* Only the enabled offline keys will display in the shared key list.
 
 ![](../.gitbook/assets/screenshot_2019-11-18-09-17-04-587_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-18-09-17-20-375_com.userstar.phonekey.png)
 
