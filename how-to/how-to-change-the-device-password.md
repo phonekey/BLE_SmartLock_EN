@@ -1,19 +1,18 @@
 # How to change the device password
 
-## 1. 進入鎖具設定畫面，點選變更裝置密碼
+## 1. Enter Setting of the lock, click Change device password.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-16-51-00-939_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png)
 
-## 2. 選擇變更方式
+## 2. Choose how to change
 
-您可直接輸入舊裝置密碼，或點選「忘記密碼」以NFC手機讀取原配對的保證卡。  
-如iPhone手機或沒有NFC功能的Android手機，**僅能使用舊裝置密碼進行變更**。
+You can directly input the old device password, or click "Forget Password" to read the original paired RFID guarantee card by NFC mobile phone. **For iPhone or Android phone without NFC, user can only input the old device password.**
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-32-20-111_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-17-21-08-279_com.userstar.phonekey.png)
 
-## 3.  **輸入新裝置密碼**
+## 3.  Input new device password
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-34-06-216_com.userstar.phonekey.png)
 
-**藍牙鎖或手機並未儲存裝置密碼，請務必妥善保存密碼與保證卡**。請避免使用0000-0000-0000-0000等簡單易猜的密碼，以防止鎖具被盜用。若使用自動產生亂數密碼，可將頁面截圖、手抄該密碼於隨身皮夾或儲存於雲端文件如iCloud或Google Drive。
+**The Bluetooth lock and mobile phone does not save the device password. Please be sure to store the password and the RFID guarantee card properly.** Please avoid using easy-to-guess passwords such as 0000-0000-0000-0000 to prevent unauthorized usage of the lock. If you use AUTO-PASSWORD to get random passwords, you can take a screenshot or copy the passwords in your wallet or store them in a cloud storage such as iCloud or Google Drive.
 
