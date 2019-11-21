@@ -5,7 +5,7 @@ The recipient's mobile phone needs to connect to the Internet, and signs in the 
 * The online key will show on the Device list automatically with the “@” symbol in front of the device name.
 * For offline key, please follow the instructions below.
 
-## 1.Pairing lock <a id="pairing-lock"></a>
+## 1. Pairing lock <a id="pairing-lock"></a>
 
 At the top right of the app's main page, press "**+**" to **Add device**, then mobile phone will scan for locks that are connectable and have no pairing. The first 3 codes of the item on the list are device categories. Such as GRG is a garage lock, CAB is a cabinet lock, and so on.
 

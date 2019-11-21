@@ -12,7 +12,7 @@ Look for the lock item from the Device list, swipe left and enter Setting of the
 
 ![](../.gitbook/assets/screenshot_2019-11-15-16-51-00-939_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png)
 
-## 2. Enable share key
+## 2. Enable share key <a id="enable-share-key"></a>
 
 Choose to enable the offline key or online key.
 

@@ -42,5 +42,5 @@ The device name is preset to the device category code, and it is recommended to 
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-30-53-146_com.userstar.phonekey.png)
 
-## 7. Complete offline key establishment, return to the Device list
+## 7. Complete offline key establishment, return to the Device list <a id="complete-offline-key-establishment-return-to-the-device-list"></a>
 

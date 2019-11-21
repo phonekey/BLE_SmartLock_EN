@@ -33,7 +33,7 @@ You can also choose **Code** and provide this verification Code to the recipient
 
 ## 3.Edit share settings <a id="edit-share-settings"></a>
 
-### 3.1 Not downloaded yet
+### 3.1 Not downloaded yet <a id="not-downloaded-yet"></a>
 
 If the **offline key** has not been used, the status of the key will be **not downloaded yet**. You can modify its settings or cancel sharing.
 
