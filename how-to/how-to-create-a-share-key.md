@@ -6,7 +6,7 @@ After the lock was activated and the offline key was established, the **administ
 * If the administrator closes a certain offline key, the key will be cleared and cannot be used anymore.
 * If the administrator changes the online key status from ACTIVATE to Close, all online keys will be cleared and cannot be used anymore.
 
-## 1. Enter Setting of the lock
+## 1. Enter Setting of the lock <a id="enter-setting-of-the-lock"></a>
 
 Look for the lock item from the Device list, swipe left and enter Setting of the lock \(gear icon\).
 
