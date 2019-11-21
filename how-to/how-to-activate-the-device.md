@@ -2,7 +2,7 @@
 
 PHONEKEY lock device needs to be paired with the RFID guarantee card and set device password during activation process. When the password is forgotten, the NFC mobile phone can read the paired RFID guarantee card to reset the password.
 
-## 1.Pairing lock
+## 1.Pairing lock <a id="pairing-lock"></a>
 
 At the top right of the app's main page, press "**+**" to **Add device**, then mobile phone will scan for locks that are connectable and have no pairing. The first 3 codes of the item on the list are device categories. Such as GRG is a garage lock, CAB is a cabinet lock, and so on.
 
@@ -10,23 +10,23 @@ Select the item to pair with the lock. After the connection is successful, the l
 
 ![](../.gitbook/assets/screenshot_2019-11-15-16-50-36-686_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-54-44-098_com.userstar.phonekey.png)
 
-## 2. Auto detection for activation status
+## 2. Auto detection for activation status <a id="auto-detection-for-activation-status"></a>
 
 If the lock had not been activated, user has to pair the RFID guarantee card in the first.
 
-### 2.1 Scan QR code
+### 2.1 Scan QR code <a id="scan-qr-code"></a>
 
 Please align the camera lens with QR code.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-20-51-303_com.userstar.phonekey.png)
 
-### 2.2 Use NFC mobile phone to read the RFID guarantee card
+### 2.2 Use NFC mobile phone to read the RFID guarantee card <a id="use-nfc-mobile-phone-to-read-the-rfid-guarantee-card"></a>
 
 Turn on the NFC function of mobile phone and place the NFC sensing area close to the RFID guarantee card for reading.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-21-08-279_com.userstar.phonekey.png)
 
-## 3. Set device password
+## 3. Set device password <a id="set-device-password"></a>
 
 The device password of lock allows the **administrator** to create keys and modify the settings of lock.
 
