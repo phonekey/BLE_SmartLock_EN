@@ -1,4 +1,4 @@
-# Workspace overview
+# Interface overview
 
 ## Main Page
 
