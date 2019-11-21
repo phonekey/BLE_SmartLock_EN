@@ -1,22 +1,18 @@
 # Bluetooth Door Lock
 
-完成門鎖啟用後，請在設定頁面&gt;**需連線裝置**，點選「設定開鎖密碼及卡片」。
+After the door lock is activated and established an offline key, please click “**Set unlock password and card**” on the Setting page.
 
-此操作需具有管理者鑰匙權限。
+This operation requires administrator key authority.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png)
 
-## 密碼
+## Password
 
-密碼長度應為6碼且為數字，最多可設定10組密碼。
+The password should be 6 digits and up to 10 passwords can be added. You can add passwords, manage passwords, or delete all passwords in this page.
 
-可從此頁面新增密碼、管理密碼或刪除所有密碼。
+## Card
 
-## 卡片
-
-請使用 MIFARE 感應卡片 \(ISO14443A/ 13.56 MHz，例如悠遊卡\) 進行設定，最多可設定30張卡片。
-
-可從此頁面新增卡片、管理卡片或刪除所有卡片。
+Please add card with MIFARE card \(ISO14443A/ 13.56 MHz, such as EasyCard\) and up to 30 cards can be added. You can add cards, manage cards, or delete all cards in this page.
 
 ![](../.gitbook/assets/screenshot_2019-11-18-11-49-07-053_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-18-11-49-10-998_com.userstar.phonekey.png)
 
