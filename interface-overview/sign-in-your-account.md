@@ -20,5 +20,5 @@ On the main page, click the Menu in the top left corner -&gt; click SIGN IN -&gt
 
 On the main page, click the Menu in the top left corner -&gt; click SIGN IN -&gt; click Sign up, input Email, Name and Password for registration, then go to the registration mailbox to click Enable Link in the notification mail.
 
-![](../.gitbook/assets/screenshot_2019-11-15-16-53-15-836_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-53-24-241_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2019-11-15-16-53-24-241_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-16-53-15-836_com.userstar.phonekey.png)
 
