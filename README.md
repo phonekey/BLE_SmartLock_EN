@@ -12,7 +12,7 @@ You can install PHONEKEY on smartphones with iOS \(iPhone 4s+\) or Android 5.0+.
 
 ## How it works
 
-PHONEKEY requires the mobile phone with Bluetooth 4.0 or higher to communicate with the lock.
+PHONEKEY requires the mobile phone with Bluetooth 4.0 or higher \(BLE\) to communicate with the lock.
 
 PHONEKEY requires the mobile phone with NFC near field communication to read the RFID guarantee card to reset the device password.
 
