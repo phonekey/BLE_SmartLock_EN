@@ -7,7 +7,7 @@ PHONEKEY provides offline operation. You can use the device password to create a
 Sign up and sign in to your account, you will have convenient cloud features such as:
 
 > In the state where the APP is signed in, the mobile phone is in connection with network and device:   
-> Administrator can set share keys.   
+> Administrator can create share keys.   
 > Normal user can download the share key.
 
 ## Sign in your account
