@@ -4,11 +4,11 @@ When the mobile phone is connection with the internet, administrator should sign
 
 ## 1. There are two ways to enter the key list <a id="there-are-two-ways-to-enter-the-key-list"></a>
 
-1.1 When sign in, enter Setting of lock and select **Key list**, there will show the enabled keys of this device.
+1.1 When sign in, enter **Setting of lock** and select **Key list**, there will show the enabled keys of this device.
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-31-57-774_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-18-09-19-22-641_com.userstar.phonekey.png)
 
-2.2 When sign in, enter menu at the top left of the main page and select the **Share key list**, there will show the enabled keys of all devices in your phone.
+2.2 When sign in, enter menu at the top left of the main page and select the **Share key list**, there will show the enabled keys of **all devices in your phone**.
 
 ## 2. Sharing method <a id="sharing-method"></a>
 
