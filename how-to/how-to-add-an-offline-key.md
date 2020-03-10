@@ -32,7 +32,7 @@ Forgotten passwords can be reset using the RFID guarantee card.
 
 The key type is preset to the **Normal user** and can be adjusted to **Administrator**.
 
-![](../.gitbook/assets/screenshot_2019-11-15-17-30-31-863_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-17-30-41-096_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2019-11-15-17-30-31-863_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2020-03-10-16-35-56-586_com.userstar.phonekey.png)
 
 ## 6. Set user name and device name <a id="set-user-name-and-device-name"></a>
 
