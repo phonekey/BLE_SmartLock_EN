@@ -2,7 +2,7 @@
 
 The recipient's mobile phone needs to connect to the Internet, and signs in the APP or has obtained the verification Code.
 
-* The online key will show on the Device list automatically with the “@” symbol in front of the device name.
+* The online key will show on the Device list automatically with the “@” symbol in front of the device name. **If there is an offline key in the app, then the online key will not display.**
 * For offline key, please follow the instructions below.
 
 ## 1. Pairing lock <a id="pairing-lock"></a>
