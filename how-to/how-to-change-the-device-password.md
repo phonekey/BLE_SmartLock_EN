@@ -6,7 +6,7 @@
 
 ## 2. Choose how to change <a id="choose-how-to-change"></a>
 
-You can directly input the old device password, or click "Forget Password" to read the original paired RFID guarantee card by NFC mobile phone. **For iPhone or Android phone without NFC, user can only input the old device password.**
+You can directly input the old device password, or click "Forget Password" to read the original paired RFID guarantee card by NFC mobile phone. **For mobile phone without NFC, user can only input the old device password.**
 
 ![](../.gitbook/assets/screenshot_2019-11-15-17-32-20-111_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-11-15-17-21-08-279_com.userstar.phonekey.png)
 
